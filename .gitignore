@@ -1,0 +1,10 @@
+*.pdf
+# 忽略整个虚拟环境或缓存文件夹
+venv/
+__pycache__/
+
+# 忽略所有日志或临时文件
+*.log
+.env
+*.docx
+without/
