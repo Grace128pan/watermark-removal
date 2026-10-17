@@ -8,3 +8,6 @@ __pycache__/
 .env
 *.docx
 without/
+# 忽略特定的文件
+Speaking_audio.mp3
+speaking.docx
